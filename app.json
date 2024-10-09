@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "expo_app",
+    "slug": "expo_app",
+    "extra": {
+      "eas": {
+        "projectId": "3f60573f-3b8a-4f7d-bf68-e677d5af5706"
+      }
+    },
+    "android": {
+      "package": "com.job_hunter"
+    }
+  }
+}
